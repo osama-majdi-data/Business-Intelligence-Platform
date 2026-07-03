@@ -43,10 +43,10 @@ Business-Intelligence-Platform
 │   └── 06_PowerBI_Views.sql
 │
 ├── 📁 Dashboards
-│   ├── Executive_Overview.png
-│   ├── Product_Performance.png
-│   ├── Customer_CRM.png
-│   └── Data_Integrity.png
+│   ├── 01_Executive_Overview.png
+│   ├── 02_Product_Performance.png
+│   ├── 03_Customer_CRM.png
+│   └── 04_Data_Integrity.png
 │
 └── README.md
 ```
