@@ -48,6 +48,11 @@ Business-Intelligence-Platform
 │   ├── 03_Customer_CRM.png
 │   └── 04_Data_Integrity.png
 │
+├── 📁 Dataset
+│    ├── dim_customers.csv
+│    ├── dim_products.csv
+│    └── fact_sales.csv
+│    
 └── README.md
 ```
 
